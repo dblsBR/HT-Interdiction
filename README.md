@@ -10,7 +10,7 @@ folder are generated according to the methodology described in our paper (layere
 (e.g., number of interdictions in the first level, number of interdictions in the second level). 
 
 # JUPTER NOOTEBOOK CODES 
-There is a jupyter notebook version of all the codes: optimistic (HT and General), pessimistic EarlyRelaxation (HT and General), pessimistic DelayedRelaxation (HT and General).
+There is a jupyter notebook version of the following codes: optimistic (HT and General), pessimistic EarlyRelaxation (HT and General), pessimistic DelayedRelaxation (General).
 
 # PYHTON (py) CODES
 Only the pessimitic EarlyRelaxation general version of the codes in py file is available at this point. For this version, type "python run.py" into a terminal to run the codes. Parameters such as number of networks and budget levels must be specified directly in the "run.py" file.
