@@ -10,7 +10,7 @@ folder are generated according to the methodology described in our paper (layere
 (e.g., number of interdictions in the first level, number of interdictions in the second level). 
 
 # JUPTER NOOTEBOOK CODES 
-There a jupyter noteebook version of all the codes: optimistic (HT), optimistic (General), pessimistic (HT), pessimistic (General).
+There is a jupyter noteebook version of all the codes: optimistic (HT), optimistic (General), pessimistic (HT), pessimistic (General).
 
 # PYHTON (py) CODES
 Only the pessimitic-general version of the codes in py file is available at this point. For this version, type "python run.py" in a terminal to run the codes. Parameters such as number of networks and budget levels must
