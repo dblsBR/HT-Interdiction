@@ -1,6 +1,6 @@
 # MEND/MEND-R PROJECT (Human Trafficking Network Interdiction)
 
-# LAST UPDATE: JUNE 29, 2023
+# LAST UPDATE: JULY 3, 2023
 
 This repoitory contains codes, instances and results from MEND-R project.
 The files are divided into two folders: Human_Trafficking and General. Networks in the "Human_Trafficking" folder were generated according to the methodology proposed in Kosmas et al. (2023) (A 
