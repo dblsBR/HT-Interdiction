@@ -1,3 +1,0 @@
-Type 2:
-3 Layers, 5 nodes, den=[0.6, 0.9]
-Special level=2
