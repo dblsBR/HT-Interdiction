@@ -1,16 +1,15 @@
 # MEND/MEND-R PROJECT (Human Trafficking Network Interdiction)
 
-# LAST UPDATE: August 9, 2023
+# LAST UPDATE: October 21, 2023
 
 This repoitory contains codes, instances and results from MEND-R project.
-The files are divided into two folders: Human_Trafficking and General. Networks in the "Human_Trafficking" folder were generated according to the methodology proposed in Kosmas et al. (2023) (A 
-transdisciplinary approach for generating synthetic but realistic domestic sex trafficking networks. IISE Transactions) and hence elements in these networks represent elements of human-trafficking (HT) networks
-(e.g. traffickers and victims). Accordingly, the output of the codes in the "Human_Trafficking" folder reflect these features (e.g., number of traffickers removed, number of victims removed). Networks in the "General"
-folder are generated according to the methodology described in our paper (layered networks) and their elements do not have specified meaning. Consequently, the outputs of codes in the "General" folder are more general
+The files are divided into three (compacted) folders: Type1, Type2, and HumanTrafficking. Networks in the "HumanTrafficking" folder were generated according to the methodology proposed in Kosmas et al. (2023) (A 
+transdisciplinary approach for generating synthetic but realistic domestic sex trafficking networks. IISE Transactions) and hence elements in these networks represent elements of human trafficking (HT) networks
+(e.g. traffickers and victims). Accordingly, the output of the codes in the "HumanTrafficking" folder reflect these features (e.g., number of traffickers removed, number of victims removed). Networks in the "Type1" and "Type2"
+folders are generated according to the methodology described in our paper (layered networks) and their elements do not have specified meaning. Consequently, the outputs of codes in these folders are more general
 (e.g., number of interdictions in the first level, number of interdictions in the second level). 
 
 # JUPTER NOOTEBOOK CODES 
-There is a jupyter notebook version of the following codes: optimistic (HT and General), pessimistic EarlyRelaxation (HT and General), pessimistic DelayedRelaxation (General).
+In each folder, there is a jupyter notebook version of all the algorithms used in the computational experiments: optimistic (Type1, Type2, and HT), pessimistic Direct Approach (Type1, Typ2, and HT), pessimistic Alternative Approach (Type1 and Typ2), pessimistic MFNIP Method (Type1, Typ2, and HT).
 
-# PYHTON (py) CODES
-Only the pessimitic EarlyRelaxation general version of the codes in py file is available at this point. For this version, type "python run.py" into a terminal to run the codes. Parameters such as number of networks and budget levels must be specified directly in the "run.py" file.
+
