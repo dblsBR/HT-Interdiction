@@ -1,7 +1,7 @@
 MIT License
 
-Copyright (c) 2025 Daniel B. Lopes da Silva
-Copyright (c) 2025 Thomas C. Sharkey
+Copyright (c) 2025 Daniel B. Lopes da Silva\
+Copyright (c) 2025 Thomas C. Sharkey\
 Copyright (c) 2025 Yongjia Song
 
 
